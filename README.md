@@ -2,7 +2,7 @@
 
 ### By Sachin Kumar
 
-#### This Web Page is Showing My Photography Sample Shots
+#### This Web Page is for recipe of foods
 #### [Link to View my work](https://Sachin-Food-Recipe.netlify.app)
 
 ## Technologies Used
